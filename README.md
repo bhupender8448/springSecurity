@@ -1,2 +1,2 @@
 # springSecurity
-implement CSRF and J
+implement CSRF and JWT
